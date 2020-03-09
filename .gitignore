@@ -1,3 +1,5 @@
 venv/
 .idea/
 lib/__pycache__/
+lib/models/
+lib/weights/
