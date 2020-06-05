@@ -1,4 +1,6 @@
 # yolo-keras
+Implementation of Yolo network in python with the use of Keras framework.
+
 After you have downloaded this project, create two folders into lib/ :
 - `images/` : in this folder insert the images to detect.
 - `weights/` : in this folder insert the weights used by the network.
